@@ -1,0 +1,220 @@
+body {
+    background-color: #F0F2F5;
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, '.SFNSText-Regular', sans-serif;
+    font-size: 12px;
+}
+
+div{
+    display: block;
+}
+
+.main {
+    padding-bottom: 112px;
+    padding-top: 72px;
+}
+
+.lala {
+    margin: 0 auto;
+    padding: 20px 0;
+    position: relative;
+    width: 980px;
+}
+
+.left {
+    box-sizing: border-box;
+    margin-right: 0;
+    padding-right: 32px;
+    width: 580px;
+    display: inline-block;
+}
+
+.facebook_logo {
+    padding: 112px 0 16px;
+}
+
+#facebook {
+    height: 106px;
+    margin: -28px;
+}
+
+.slogan {
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    padding: 0 0 20px;
+    margin: 0;
+}
+
+.right {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.auth-block {
+    height: 380px;
+    width: 396px;
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-sizing: border-box;
+    margin: 40px 0 0;
+    padding: 20px 0 28px;
+    width: 396px;
+    text-align: center;
+    
+}
+
+.auth {
+    padding: 6px 0;
+    margin: auto;
+    width: 364px;
+    font-size: 17px;
+}
+
+.input {
+    border-radius: 6px;
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    background: #ffffff;
+    border: 1px solid #dddfe2;
+    height: 22px;
+}
+
+.login-button {
+    padding-top: 6px;
+}
+
+.login {
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 332px;
+    color: #fff;
+    font-weight: bold;
+    box-sizing: content-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.restore-passw{
+    margin-top: 16px;
+}
+
+.restore-passw a {
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: inherit;
+}
+
+button {
+    font-family: inherit;
+}
+
+a {
+    text-decoration: none;
+}
+
+.liniya {
+    align-items: center;
+    border-bottom: 1px solid #dadde1;
+    display: flex;
+    margin: 20px 16px;
+    text-align: center;
+}
+
+.new-acc-button {
+    padding-top: 6px;
+}
+
+.new-acc {
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 16px;
+    background-color: #42b72a;
+    color:#fff;
+    display: inline-block;
+    font-weight: bold;
+    -webkit-font-smoothing: antialiased;
+}
+
+.celeb-page {
+    border-top: none;
+    color: #1c1e21;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding-top: 0;
+    text-align: center;
+    margin-top: 28px;
+}
+
+.link {
+    font-weight: 600;
+    font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: inherit
+}
+
+.footer {
+    padding-top: 20px;
+    background: #fff;
+}
+
+.more-footer {
+    margin: 0 auto;
+    width: 980px;
+    height: 210px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.ulist {
+    padding-left: 0;
+}
+
+.ulist>li{
+    padding-right: 0;
+    padding-left: 10px;
+    display: inline-block;
+    color: #737373;
+}
+
+.liniya2{
+    border-bottom: 1px solid #dddfe2;
+    font-size: 1px;
+    height: 8px;
+    margin-bottom: 8px;
+
+}
+
+.ulist2 {
+    line-height: 1.6;
+    margin-left: -20px;
+}
+
+.ulist2>li{
+    padding-right: 0;
+    padding-left: 20px;
+    display: inline-block;
+    color: #737373;
+}
+.copyright {
+    font-size: 11px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #737373;
+}
