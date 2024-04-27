@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#1F75FE</color>
+    <color name="card_view">#EFF9FF</color>
+    <color name="card_view_bg">#EEEEEE</color>
+    <color name="chip_bg">#CEFFFFFF</color>
+    <color name="cream">#FFFDD0</color>
+    <color name="green">#4CAF50</color>
+    <color name="green_text">#76AC30</color>
+    <color name="main_color">#4CAF50</color>
+    <color name="orange">#FFBF00</color>
+    <color name="red">#CD2B23</color>
+    <color name="secondaty_text">#8F8F8F</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#efdc75</color>
+    <string name="app_name">Shop</string>
+    <string name="gcm_defaultSenderId" translatable="false">681265314612</string>
+    <string name="google_api_key" translatable="false">AIzaSyAQPNXztI7gpzM4Iup8vsoespSMzUo0Hnw</string>
+    <string name="google_app_id" translatable="false">1:681265314612:android:bf30933a15bb8be4870361</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAQPNXztI7gpzM4Iup8vsoespSMzUo0Hnw</string>
+    <string name="google_storage_bucket" translatable="false">shop-50d7e.appspot.com</string>
+    <string name="project_id" translatable="false">shop-50d7e</string>
+    <style name="Base.Theme.Shop" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Mont">
+        <item name="fontFamily">@font/mont_regular</item>
+    </style>
+    <style name="Mont.Bold">
+        <item name="fontFamily">@font/mont_bold</item>
+    </style>
+    <style name="Mont.SemiBold">
+        <item name="fontFamily">@font/mont_semibold</item>
+    </style>
+    <style name="Theme.Shop" parent="Base.Theme.Shop">
+        <item name="colorPrimary">@color/black</item>
+    </style>
+    <style name="customChipStyle" parent="Widget.MaterialComponents.Chip.Filter">
+        <item name="chipBackgroundColor">@color/chip_background_color</item>
+        <item name="android:textColor">@color/chip_text_color</item>
+    </style>
+</resources>
